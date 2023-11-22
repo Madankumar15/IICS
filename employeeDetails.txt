@@ -1,0 +1,6 @@
+EmployeeID|FirstName|LastName|Salary|JoiningDate|DepartmentID|Location
+79001|Ram|P|100|10-Jan-23|10|Bangalore
+79002|Mahesh|G|110|10-Jan-23|10|Hyderabad
+79003|Pavan|K|120|1-Mar-23|20|Hyderabad
+79004|Arjun|A|100|15-Jun-23|20|Chennai
+79005|Ravi|T|110|5-Jul-23|30|Delhi
